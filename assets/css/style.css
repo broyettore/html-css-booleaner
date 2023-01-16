@@ -97,10 +97,6 @@ table {
     width: 50%;
 }
 
-td {
-    height: 100%;
-}
-
 .even {
     background-color: lightblue;
 }
