@@ -34,8 +34,10 @@ header img {
     margin-top: 20px;
 }
 /* HEADER ENDS */
+
 /* MAIN STARTS  */
 
+/*************** article first part css  ************/
 article h1 {
     font-size: 3.6rem;
     font-weight: bolder;
@@ -64,6 +66,7 @@ article h1 {
     margin: 16px 16px 5px 0;
     border: 2px solid #f46c95;
 }
+/************* article first part css ends ************** */
 /******** article second part css starts    *******/
 article  {
     font-size: 1.6rem;
