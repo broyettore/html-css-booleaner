@@ -57,6 +57,49 @@ article h1 {
     height: 362px;
     margin-top: 16px;
 }
-
 /******** /article first part css ends    *******/
+/******** article second part css starts    *******/
+article  {
+    font-size: 1.6rem;
+}
+
+article p {
+    margin: 16px 0 20px 0;
+}
+
+article li {
+    font-size: 1.6rem;
+}
+
+article ul {
+    margin-bottom: 20px;
+}
+
+span {
+    background-color: greenyellow;
+}
+
+table {
+    text-align: left;
+}
+
+table th {
+    width: 5%;
+}
+
+.table-header {
+    background-color: #29ace5;
+    color: white;
+}
+
+.even {
+    background-color: lightblue;
+}
+.uneven {
+    background-color: antiquewhite;
+}
+
+/******** /article second part css ends    *******/
+
+
 
