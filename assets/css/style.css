@@ -1,0 +1,33 @@
+                                                                           /* OVERALL RULES  START  */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 62.5%;
+}
+                                                                            /* OVERALL RULES END  */
+
+
+                                                                            /* HEADER CONTENT  */
+header {
+    background-image: url(../img/pattern.png);
+    height: 100px;
+    background-color: rgba(78,160,255,255);
+    background-size: 40%;
+}
+
+.logo-ctn {
+    height: 100px;
+    width: 200px;
+}
+
+header img {
+    height: 100%;
+    width: 100%;
+    padding-left: 10px;
+    margin-top: 20px;
+}
+                                                                            /* HEADER CONTENT END  */
