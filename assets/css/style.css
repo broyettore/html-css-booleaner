@@ -83,13 +83,18 @@ table {
     text-align: left;
 }
 
-table th {
-    width: 5%;
-}
 
 .table-header {
     background-color: #29ace5;
     color: white;
+}
+
+.last-col {
+    width: 50%;
+}
+
+td {
+    height: 100%;
 }
 
 .even {
@@ -101,7 +106,7 @@ table th {
 
 /******** /article second part css ends    *******/
                                                                          /* MAIN CONTENT ENDS  */
-                                                                         
+
 /******** footer css starts   *******/
 footer {
     padding: 10px;
