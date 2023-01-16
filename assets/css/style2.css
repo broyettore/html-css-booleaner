@@ -1,0 +1,149 @@
+/* OVERALL RULES START  */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+    font-size: 62.5%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+body {
+    background-color: #1b1c30;
+    color: #f46c95;
+    width: 1000px;
+    margin: 0 auto;
+}
+/* OVERALL RULES END  */
+/* HEADER STARTS  */
+header {
+    background-image: url(../img/pattern.png);
+    height: 100px;
+    background-color: #1b1c30;
+    background-size: 40%;
+    border-bottom: 2px solid #f46c95;
+}
+
+header img {
+    height: 100px;
+    width: 200px;
+    margin-top: 20px;
+}
+/* HEADER ENDS */
+/* MAIN STARTS  */
+
+article h1 {
+    font-size: 3.6rem;
+    font-weight: bolder;
+    padding: 10px 0 0 0;
+}
+
+.text-sm {
+    font-size: 1.6rem;
+    font-weight: bold;
+    color: gray;
+}
+
+.text-sm a {
+    text-decoration: none;
+    color: #29ace5;
+}
+
+.text-sm a:hover {
+    cursor: pointer;
+    color: #f46c95;
+}
+
+.img-ctn img {
+    width: 450px;
+    height: 362px;
+    margin: 16px 16px 5px 0;
+    border: 2px solid #f46c95;
+}
+/******** article second part css starts    *******/
+article  {
+    font-size: 1.6rem;
+}
+
+article p {
+    margin: 20px 0;
+}
+
+.list {
+    padding-left: 40px;
+}
+
+article li {
+    font-size: 1.6rem;
+}
+
+article ul {
+    margin-bottom: 20px;
+}
+
+span {
+    background-color: black;
+    color: green;
+}
+
+table {
+    text-align: left;
+}
+
+
+.table-header {
+    background-color: lightcoral;
+    color: brown
+}
+
+.last-col {
+    width: 50%;
+}
+
+.even {
+    background-color: bisque;
+}
+.uneven {
+    background-color: whitesmoke;
+}
+
+/******** /article second part css ends    *******/
+/* MAIN ENDS  */
+/******** footer css starts   *******/
+footer {
+    font-size: 1.6rem;
+}
+footer h3 {
+    color: #868686;
+    margin-bottom: 16px;
+}
+
+footer div {
+    padding: 10px;
+    color: white;
+    margin-bottom: 30px;
+}
+
+#img-pc {
+    background-image: url(../img/monitor.jpg);
+    background-size: contain;
+    height: 200px;
+    width: 250px;
+    margin-right: 20px;
+    float: left;
+}
+
+#img-graph {
+    background-image: url(../img/graph.jpg);
+    background-size: contain;
+    height: 200px;
+    width: 250px;
+    float: left;
+}
+/******** footer css ends  *******/
+                                                                         
+                                                                         
