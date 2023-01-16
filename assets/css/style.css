@@ -7,6 +7,7 @@
 
 html {
     font-size: 62.5%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
                                                                             /* OVERALL RULES END  */
 
@@ -19,15 +20,43 @@ header {
     background-size: 40%;
 }
 
-.logo-ctn {
+header img {
     height: 100px;
     width: 200px;
-}
-
-header img {
-    height: 100%;
-    width: 100%;
     padding-left: 10px;
     margin-top: 20px;
 }
                                                                             /* HEADER CONTENT END  */
+
+                                                                            /* MAIN CONTENT START  */
+
+/******** article first part css starts   *******/
+
+main {
+    padding: 10px;
+}
+
+article h1 {
+    font-size: 3.6rem;
+    font-weight: bolder;
+}
+
+.text-sm {
+    font-size: 1.4rem;
+    font-weight: bold;
+    color: #868686;
+}
+
+.text-sm a {
+    text-decoration: none;
+    color: #29ace5
+}
+
+.img-ctn img {
+    width: 450px;
+    height: 362px;
+    margin-top: 16px;
+}
+
+/******** /article first part css ends    *******/
+
